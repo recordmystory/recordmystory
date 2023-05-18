@@ -1,2 +1,1 @@
- <img src="https://img.shields.io/badge/Undertale-E71D29
-?style=flat&logo=TypeScript&logoColor=white"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=recordmystory&langs_count=8)](https://github.com/recordmystory/github-readme-stats)
