@@ -32,6 +32,12 @@
 
 ----
 
+### 작성 논문
+[운동 스케줄 애플리케이션 설계 및 구현](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11528297](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11528297))
+</br>
+
+----
+
 ### Stack
 ##### Strong 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
