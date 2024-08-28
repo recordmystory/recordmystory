@@ -33,7 +33,7 @@
 ----
 
 ### 작성 논문
-[운동 스케줄 애플리케이션 설계 및 구현](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11528297](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11528297))
+[운동 스케줄 애플리케이션 설계 및 구현](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11743330)
 </br>
 
 ----
