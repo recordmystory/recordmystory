@@ -1,4 +1,4 @@
-# 언제나 사용자 관점에서 생각하는 개발자 김지우입니다.
+
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=recordmystory&fontSize=90) -->
 <!--</br></br></br></br></br></br> -->
 
